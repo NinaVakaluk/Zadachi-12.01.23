@@ -1,0 +1,15 @@
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.csproj.AssemblyReference.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.GeneratedMSBuildEditorConfig.editorconfig
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.AssemblyInfoInputs.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.AssemblyInfo.cs
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.csproj.CoreCompileInputs.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/bin/Debug/net7.0/zadacha29
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/bin/Debug/net7.0/zadacha29.deps.json
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/bin/Debug/net7.0/zadacha29.runtimeconfig.json
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/bin/Debug/net7.0/zadacha29.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/bin/Debug/net7.0/zadacha29.pdb
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/refint/zadacha29.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.pdb
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/zadacha29.genruntimeconfig.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha29/obj/Debug/net7.0/ref/zadacha29.dll

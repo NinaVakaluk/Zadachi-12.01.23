@@ -1,0 +1,15 @@
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.csproj.AssemblyReference.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.GeneratedMSBuildEditorConfig.editorconfig
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.AssemblyInfoInputs.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.AssemblyInfo.cs
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.csproj.CoreCompileInputs.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/bin/Debug/net7.0/zadacha25
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/bin/Debug/net7.0/zadacha25.deps.json
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/bin/Debug/net7.0/zadacha25.runtimeconfig.json
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/bin/Debug/net7.0/zadacha25.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/bin/Debug/net7.0/zadacha25.pdb
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/refint/zadacha25.dll
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.pdb
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/zadacha25.genruntimeconfig.cache
+/home/nina/Документы/Zadachi 12.01.23/zadacha25/obj/Debug/net7.0/ref/zadacha25.dll
